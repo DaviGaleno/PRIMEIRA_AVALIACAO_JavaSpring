@@ -188,7 +188,8 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Deletar Aluno Por ID (DEL)
 
-<img width="632" height="287" alt="{BF5AF717-C138-477B-AE7D-C5D49D9329E4}" src="https://github.com/user-attachments/assets/7199bf5a-9705-43de-bdeb-c287a162ac8b" />
+<img width="614" height="274" alt="{176C0858-F381-4E5C-9DB1-118D29FD1505}" src="https://github.com/user-attachments/assets/3b9f1641-7095-491e-b71c-5b956edcba8c" />
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
