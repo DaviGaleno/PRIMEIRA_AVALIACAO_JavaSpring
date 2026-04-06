@@ -183,7 +183,8 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Buscar Aluno Por ID (GET)
 
-<img width="669" height="295" alt="{5DADE794-F393-4E32-9D4F-CED46904C74A}" src="https://github.com/user-attachments/assets/28109954-48d3-4543-bed9-1abcca3aedfe" />
+<img width="726" height="269" alt="{2DD40A44-F6D0-4B0A-969E-915D036405AB}" src="https://github.com/user-attachments/assets/5fd50d97-50bf-4053-9880-f9a6ecb87ca3" />
+
 
 ### 🔹 Deletar Aluno Por ID (DEL)
 
