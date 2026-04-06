@@ -168,16 +168,18 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Criar Aluno (POST)
 
-<img width="1315" height="641" alt="{C2562B5F-574A-44AA-A9DA-9F0D7E009A8C}" src="https://github.com/user-attachments/assets/9db43c6f-bdda-4ff4-8423-ea01a54948eb" />
+<img width="600" height="278" alt="{85C1AAF9-B90A-433D-8333-2FCD8A724EB0}" src="https://github.com/user-attachments/assets/074b37a5-4599-450d-aed9-270e1e3eb021" />
 
 
 ### 🔹 Listar Alunos (GET)
 
-<img width="1310" height="602" alt="{CA033DA1-49B7-4E04-B88D-244F7C93B045}" src="https://github.com/user-attachments/assets/eb2c32e0-991b-4c17-be29-dc7452360d47" />
+<img width="727" height="581" alt="{1A37BFEA-8F05-4C12-9EB4-8678398F478A}" src="https://github.com/user-attachments/assets/1b2330fc-47d4-426e-8db8-2332940b1764" />
+
 
 ### 🔹 Editar Alunos (PUT)
 
-<img width="649" height="271" alt="{FE17C1D3-2CFC-4D28-A644-57AE4DFA53F6}" src="https://github.com/user-attachments/assets/656a6d50-43de-4174-99b2-98e8e03d91c3" />
+<img width="622" height="237" alt="{BBCBC833-2603-4707-B07B-D0B9E9EEFF9E}" src="https://github.com/user-attachments/assets/8b517247-6c56-4e3c-8858-5468ea622a05" />
+
 
 ### 🔹 Buscar Aluno Por ID (GET)
 
@@ -185,7 +187,8 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Deletar Aluno Por ID (DEL)
 
-<img width="641" height="318" alt="{8A1A3123-819F-42FB-9738-2AF41A8914A4}" src="https://github.com/user-attachments/assets/31cff566-90f8-46be-8448-189149e75e67" />
+<img width="632" height="287" alt="{BF5AF717-C138-477B-AE7D-C5D49D9329E4}" src="https://github.com/user-attachments/assets/7199bf5a-9705-43de-bdeb-c287a162ac8b" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -194,23 +197,28 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Criar Professor (POST)
 
-<img width="1315" height="628" alt="{DD67D399-55F0-4C86-8EF8-C53664132CCD}" src="https://github.com/user-attachments/assets/73381186-cd8d-445e-8847-1d6a334e3fbd" />
+<img width="617" height="280" alt="{6468324D-045A-49CE-BF04-0001CB3B3BCF}" src="https://github.com/user-attachments/assets/aea8a4a0-b1fe-4361-bc5d-e3eebf7bd238" />
+
 
 ### 🔹 Listar Professores (GET)
 
-<img width="1316" height="632" alt="{DA6A9F5E-AEE5-45B1-B605-29D6FFBB37A4}" src="https://github.com/user-attachments/assets/64f9794a-4778-4971-be4a-1ec571e4abf5" />
+<img width="666" height="314" alt="{C1DBD3C7-C0EC-41BC-AF00-B9BA69649ABE}" src="https://github.com/user-attachments/assets/75e68a3d-300b-4535-9996-e2dddad94ac9" />
+
 
 ### 🔹 Editar Professores (PUT)
 
-<img width="652" height="287" alt="{CA880AE0-A2D6-45FC-966C-79E9F772943C}" src="https://github.com/user-attachments/assets/23f23f79-64a8-4905-9381-49f161da6436" />
+<img width="618" height="250" alt="{3C67B37D-EAB2-49EC-9B14-B880F1AFBBEB}" src="https://github.com/user-attachments/assets/34ce6652-2559-4eae-93de-cf41d4bd20b4" />
+
 
 ### 🔹 Buscar Professor Por ID (GET)
 
-<img width="782" height="282" alt="{38ECF419-B64C-4501-B995-14AA705CC427}" src="https://github.com/user-attachments/assets/e94d8c8c-d8cf-4a65-8a76-760ae49de1b8" />
+<img width="687" height="261" alt="{2C201424-55AC-4E5B-9684-87405AAE4327}" src="https://github.com/user-attachments/assets/13c152a9-1258-4cdc-b1a9-e552fbbe35a7" />
+
 
 ### 🔹 Deletar Professor Por ID (DEL)
 
-<img width="787" height="296" alt="{AED6AEF5-ED90-4FCC-8593-BE2C6FA4A17D}" src="https://github.com/user-attachments/assets/57e38e67-155b-4b36-a989-c91eb2bcda2f" />
+<img width="620" height="231" alt="{40765108-139A-42D5-ABE2-BB9071F733AF}" src="https://github.com/user-attachments/assets/f9d3a403-1bee-447e-90a0-4f842533da82" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -218,12 +226,14 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ### 🔹 Tabela Aluno
 
-<img width="652" height="555" alt="{6D5E4054-3F82-458C-B93E-8CA8759F6B54}" src="https://github.com/user-attachments/assets/f3eb6c11-4b11-490b-90d6-c302ba695b0d" />
+<img width="549" height="292" alt="{18A1FC81-EEA9-4B31-B944-413873C47DA1}" src="https://github.com/user-attachments/assets/a72ab0bb-9651-4004-b979-2dd38b452ea8" />
+
 
 
 ### 🔹 Tabela Professor
 
-<img width="632" height="563" alt="{DF588A0A-0229-40CE-977B-FD02651547D5}" src="https://github.com/user-attachments/assets/ea3d5533-90b5-4f35-b260-02b72b0b6a01" />
+<img width="550" height="295" alt="{A84D46AA-BCA0-4248-9BB1-BEC88F8F6B5D}" src="https://github.com/user-attachments/assets/91096a00-13e3-42af-b208-7a3eaf3c8961" />
+
 
 
 ---
