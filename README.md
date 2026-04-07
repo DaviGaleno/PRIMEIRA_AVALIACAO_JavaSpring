@@ -1,6 +1,6 @@
 # 📚 PRIMEIRA AVALIAÇÃO - API Java Spring Boot
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma API REST utilizando o framework Spring Boot, com o objetivo de gerenciar dados de **Alunos** e **Professores**.
 
@@ -10,7 +10,7 @@ O sistema foi desenvolvido seguindo boas práticas de organização em camadas, 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Java
 * Spring Boot
@@ -23,7 +23,7 @@ O sistema foi desenvolvido seguindo boas práticas de organização em camadas, 
 
 ---
 
-## 🧱 Arquitetura do Projeto
+## Arquitetura do Projeto
 
 O projeto segue o padrão de arquitetura em camadas:
 
@@ -45,7 +45,7 @@ Responsável por expor os endpoints da API.
 
 ---
 
-## 🔍 Detalhamento do Código
+## Detalhamento do Código
 
 ### 📁 Entidade Aluno
 
@@ -119,7 +119,7 @@ public class AlunoController {
 
 Responsável pelos endpoints da API.
 
-#### 📌 Endpoints disponíveis:
+#### Endpoints disponíveis:
 
 | Método | Rota         | Descrição     |
 | ------ | ------------ | ------------- |
@@ -131,7 +131,7 @@ Responsável pelos endpoints da API.
 
 ---
 
-## 👨‍🏫 Entidade Professor
+## Entidade Professor
 
 A estrutura de **Professor** segue o mesmo padrão da entidade Aluno, com:
 
@@ -144,9 +144,9 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ---
 
-## 🔗 Endpoints da API
+## Endpoints da API
 
-### 📌 Alunos
+### Alunos
 
 * GET `/alunos`
 * POST `/alunos`
@@ -154,7 +154,7 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 * PUT `/alunos/{id}`
 * DELETE `/alunos/{id}`
 
-### 📌 Professores
+### Professores
 
 * GET `/professores`
 * POST `/professores`
@@ -164,29 +164,29 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ---
 
-## 📸 Testes no Insomnia
+## Testes no Insomnia
 
-### 🔹 Criar Aluno (POST)
+### Criar Aluno (POST)
 
 <img width="600" height="278" alt="{85C1AAF9-B90A-433D-8333-2FCD8A724EB0}" src="https://github.com/user-attachments/assets/074b37a5-4599-450d-aed9-270e1e3eb021" />
 
 
-### 🔹 Listar Alunos (GET)
+### Listar Alunos (GET)
 
 <img width="727" height="581" alt="{1A37BFEA-8F05-4C12-9EB4-8678398F478A}" src="https://github.com/user-attachments/assets/1b2330fc-47d4-426e-8db8-2332940b1764" />
 
 
-### 🔹 Editar Alunos (PUT)
+### Editar Alunos (PUT)
 
 <img width="622" height="237" alt="{BBCBC833-2603-4707-B07B-D0B9E9EEFF9E}" src="https://github.com/user-attachments/assets/8b517247-6c56-4e3c-8858-5468ea622a05" />
 
 
-### 🔹 Buscar Aluno Por ID (GET)
+### Buscar Aluno Por ID (GET)
 
 <img width="726" height="269" alt="{2DD40A44-F6D0-4B0A-969E-915D036405AB}" src="https://github.com/user-attachments/assets/5fd50d97-50bf-4053-9880-f9a6ecb87ca3" />
 
 
-### 🔹 Deletar Aluno Por ID (DEL)
+### Deletar Aluno Por ID (DEL)
 
 <img width="614" height="274" alt="{176C0858-F381-4E5C-9DB1-118D29FD1505}" src="https://github.com/user-attachments/assets/3b9f1641-7095-491e-b71c-5b956edcba8c" />
 
@@ -197,42 +197,42 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 
 
-### 🔹 Criar Professor (POST)
+### Criar Professor (POST)
 
 <img width="617" height="280" alt="{6468324D-045A-49CE-BF04-0001CB3B3BCF}" src="https://github.com/user-attachments/assets/aea8a4a0-b1fe-4361-bc5d-e3eebf7bd238" />
 
 
-### 🔹 Listar Professores (GET)
+### Listar Professores (GET)
 
 <img width="666" height="314" alt="{C1DBD3C7-C0EC-41BC-AF00-B9BA69649ABE}" src="https://github.com/user-attachments/assets/75e68a3d-300b-4535-9996-e2dddad94ac9" />
 
 
-### 🔹 Editar Professores (PUT)
+### Editar Professores (PUT)
 
 <img width="618" height="250" alt="{3C67B37D-EAB2-49EC-9B14-B880F1AFBBEB}" src="https://github.com/user-attachments/assets/34ce6652-2559-4eae-93de-cf41d4bd20b4" />
 
 
-### 🔹 Buscar Professor Por ID (GET)
+### Buscar Professor Por ID (GET)
 
 <img width="687" height="261" alt="{2C201424-55AC-4E5B-9684-87405AAE4327}" src="https://github.com/user-attachments/assets/13c152a9-1258-4cdc-b1a9-e552fbbe35a7" />
 
 
-### 🔹 Deletar Professor Por ID (DEL)
+### Deletar Professor Por ID (DEL)
 
 <img width="620" height="231" alt="{40765108-139A-42D5-ABE2-BB9071F733AF}" src="https://github.com/user-attachments/assets/f9d3a403-1bee-447e-90a0-4f842533da82" />
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🗄️ Banco de Dados (DBeaver)
+## Banco de Dados (DBeaver)
 
-### 🔹 Tabela Aluno
+### Tabela Aluno
 
 <img width="549" height="292" alt="{18A1FC81-EEA9-4B31-B944-413873C47DA1}" src="https://github.com/user-attachments/assets/a72ab0bb-9651-4004-b979-2dd38b452ea8" />
 
 
 
-### 🔹 Tabela Professor
+### Tabela Professor
 
 <img width="550" height="295" alt="{A84D46AA-BCA0-4248-9BB1-BEC88F8F6B5D}" src="https://github.com/user-attachments/assets/91096a00-13e3-42af-b208-7a3eaf3c8961" />
 
@@ -240,7 +240,7 @@ A única diferença está nos nomes das classes e rotas (`/professores`).
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clonar o repositório:
 
@@ -268,7 +268,7 @@ http://localhost:8080/alunos
 
 ---
 
-## 📌 Considerações Finais
+## Considerações Finais
 
 O projeto demonstra a aplicação prática de:
 
